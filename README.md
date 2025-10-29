@@ -8,7 +8,7 @@
 
 Script size has a direct impact on speed, SEO rankings and Core Web Vitals. That’s why Spiderseek is built to be fast first — with one of the smallest analytics scripts in the industry.
 
-| Analytics Provider | Script Size (Bytes) | Download Time (Slow 4G) | Size vs Spiderseek | Difference in Download Time | Verdict |
+| Analytics Provider | Script Size (Bytes) | Download Time (4G) | Size vs Spiderseek | Difference in Download Time | Verdict |
 |--------------------|-------------|--------------------------|--------------------|-----------------------------|---------|
 | **Spiderseek** | 257 | 0.39 ms | **1× (baseline)** | — | ✅ Ultra-fast |
 | Plausible | 6,136 | 9.36 ms | **24× larger** | **+8.97 ms** | ✅ Lightweight |
