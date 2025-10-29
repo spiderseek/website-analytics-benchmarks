@@ -10,7 +10,7 @@ Script size has a direct impact on speed, SEO rankings and Core Web Vitals. That
 
 | Analytics Provider | Script Size (Bytes) | Download Time (4G) | Size vs Spiderseek | Difference in Download Time | Verdict |
 |--------------------|-------------|--------------------------|--------------------|-----------------------------|---------|
-| **Spiderseek** | 257 | 0.39 ms | **1× (baseline)** | — | ✅ Ultra-fast |
+| **Spiderseek** | 257 | 0.39 ms | **1× (baseline)** | — | ✅ Ultrafast |
 | Plausible | 6,136 | 9.36 ms | **24× larger** | **+8.97 ms** | Lightweight |
 | Fathom | 6,153 | 9.40 ms | **24× larger** | **+9.01 ms** | Lightweight |
 | Simple Analytics | 7,515 | 11.47 ms | **29× larger** | **+11.08 ms** | Lightweight |
@@ -39,5 +39,5 @@ Script size has a direct impact on speed, SEO rankings and Core Web Vitals. That
 
 ---
 
-Looking for privacy first, ultra-fast analytics with no performance penalty?  
+Looking for privacy first, ultrafast analytics with no performance penalty?  
 👉 https://www.spiderseek.com
