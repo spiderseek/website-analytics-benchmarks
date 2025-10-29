@@ -10,12 +10,12 @@ Script size has a direct impact on speed, SEO rankings and Core Web Vitals. That
 
 | Analytics Provider | Script Size | Download Time (Slow 4G) | Size vs Spiderseek | Difference in Download Time | Verdict |
 |--------------------|-------------|--------------------------|--------------------|-----------------------------|---------|
-| **Spiderseek** | **257 bytes** | **0.39 ms** | **1× (baseline)** | — | ✅ Ultra-fast |
-| Plausible | 6.1 KB | 9.36 ms | **24× larger** | **+8.97 ms** | ✅ Lightweight |
-| Fathom | 6.2 KB | 9.40 ms | **24× larger** | **+9.01 ms** | ✅ Lightweight |
-| Simple Analytics | 7.5 KB | 11.47 ms | **29× larger** | **+11.08 ms** | ✅ Lightweight |
-| Matomo | 222.7 KB | 340 ms | **867× larger** | **+339.61 ms** | ⚠️ Heavy |
-| Google Analytics 4 | 370.9 KB | 571 ms | **1,443× larger** | **+570.61 ms** | ❌ Bloated |
+| **Spiderseek** | **257 B (0.25 KB)** | **0.39 ms** | **1× (baseline)** | — | ✅ Ultra-fast |
+| Plausible | 6,136 B (6.1 KB) | 9.36 ms | **24× larger** | **+8.97 ms** | ✅ Lightweight |
+| Fathom | 6,153 B (6.2 KB) | 9.40 ms | **24× larger** | **+9.01 ms** | ✅ Lightweight |
+| Simple Analytics | 7,515 B (7.5 KB) | 11.47 ms | **29× larger** | **+11.08 ms** | ✅ Lightweight |
+| Matomo | 222,661 B (222.7 KB) | 340 ms | **867× larger** | **+339.61 ms** | ⚠️ Heavy |
+| Google Analytics 4 | 370,891 B (370.9 KB) | 571 ms | **1,443× larger** | **+570.61 ms** | ❌ Bloated |
 
 ✅ Smaller script = faster First Contentful Paint (FCP)  
 ✅ Faster load = better Lighthouse score & SEO  
